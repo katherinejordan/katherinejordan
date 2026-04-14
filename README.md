@@ -1,3 +1,4 @@
+![a server room](https://github.com/katherinejordan/katherinejordan/raw/main/GithubBanner.png)
 # Katie Jordan
 > she/her/hers
 
