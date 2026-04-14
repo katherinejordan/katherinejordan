@@ -1,4 +1,20 @@
 ![a server room](https://github.com/katherinejordan/katherinejordan/raw/main/Banner.png)
+<br>
+<!-- <hr> -->
+
+<div id="skills-icons" align="center">
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/unity-252d2d?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/unrealengine-303839?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/c%23-3c504f?style=for-the-badge&logo=csharp&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/c++-495c5c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/c-495c5c?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/python-3c504f?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/jira-303839?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Aseprite-252d2d?style=for-the-badge&logo=Aseprite&logoColor=white" /></a>
+</div>
+  
+<br>
+
 # Katie Jordan
 > she/her/hers
 
@@ -6,15 +22,6 @@
 - 🎓 **University:** Northeastern University
 - 🖥️ **Major:** Computer Science and Game Development
 
-### Game Engines
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <a href="https://www.linkedin.com/in/jordan-kath/">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="75" weight="75"/>
