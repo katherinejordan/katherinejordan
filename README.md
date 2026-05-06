@@ -21,11 +21,7 @@
 
 - 🎓 **University:** Northeastern University
 - 🖥️ **Major:** Computer Science and Game Development
-
-
-<a href="https://www.linkedin.com/in/jordan-kath/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="75" weight="75"/>
-</a>
+- Itch Link: https://lostmessage.itch.io/
 
 
 <!--
