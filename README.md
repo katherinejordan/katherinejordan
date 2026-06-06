@@ -8,6 +8,7 @@
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/c%23-3c504f?style=for-the-badge&logo=csharp&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/c++-495c5c?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/c-495c5c?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/java-495c5c?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/python-3c504f?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/jira-303839?style=for-the-badge&logo=jira&logoColor=white" /></a>
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Aseprite-252d2d?style=for-the-badge&logo=Aseprite&logoColor=white" /></a>
