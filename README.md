@@ -22,7 +22,7 @@
 
 - 🎓 **University:** Northeastern University
 - 🖥️ **Major:** Computer Science and Game Development
-- Itch Link: https://lostmessage.itch.io/
+- Games Portfolio: https://lostmessage.itch.io/
 - If there is a specific project you'd like to see, send me an email and I'll make it public!
 
 
